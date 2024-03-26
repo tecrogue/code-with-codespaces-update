@@ -37,6 +37,7 @@ In this course, you will:
 2. Add a custom image
 3. Customize your codespace
 4. Personalize your codespace
+5. Delete unused codespaces
 
 ### How to start this course
 
