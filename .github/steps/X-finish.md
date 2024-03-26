@@ -15,6 +15,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You learned how to use custom images in your codespace.
 - You learned how to customize your codespace.
 - You learned how to personalize your codespace.
+- You learned how to remove unused codespaces.
 
 ### Additional learning and resources
 
